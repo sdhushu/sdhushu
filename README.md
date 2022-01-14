@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there my name is vike 👋
 
-<!--
-**sdhushu/sdhushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Vue_music
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me: email: 1426732052@qq.com
+- 😄 Pronouns: Go for it! Just do it!
+- ⚡ Fun fact:
+  + simple-ui progress
+  + vue_music progress
 
-Here are some ideas to get you started:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdhushu)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhushu&count_private=true)
+
+
